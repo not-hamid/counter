@@ -3,7 +3,7 @@ const btns = document.querySelectorAll('.btn');
 
 let count = 0;
 // hellloooo
-
+// helo 22222222222
 btns.forEach((item)=>{
     item.addEventListener('click',(e)=>{
         const styles = e.currentTarget.classList;
